@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ros-pkg/!svn/ver/36602/stacks/vslam/trunk/sba/src
+END
+csparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/36602/stacks/vslam/trunk/sba/src/csparse.cpp
+END
+visualization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/visualization.cpp
+END
+spa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/spa.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/node.cpp
+END
+sba.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/sba.cpp
+END
+spa2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/spa2d.cpp
+END
+proj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/36602/stacks/vslam/trunk/sba/src/proj.cpp
+END
+sba_file_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/src/sba_file_io.cpp
+END
+cholmod_timing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/sba/src/cholmod_timing.cpp
+END

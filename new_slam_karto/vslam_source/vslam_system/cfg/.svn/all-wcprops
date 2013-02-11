@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/32162/stacks/vslam/trunk/vslam_system/cfg
+END
+StereoVslamNode.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/cfg/StereoVslamNode.cfg
+END
+detector_parameters.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ros-pkg/!svn/ver/32162/stacks/vslam/trunk/vslam_system/cfg/detector_parameters.py
+END

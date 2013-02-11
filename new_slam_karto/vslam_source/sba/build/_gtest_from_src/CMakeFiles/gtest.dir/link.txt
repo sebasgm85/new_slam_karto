@@ -1,0 +1,2 @@
+/usr/bin/ar cr /home/sebasgm/new_slam_karto/vslam_source/sba/lib/libgtest.a  CMakeFiles/gtest.dir/src/gtest-all.cc.o
+/usr/bin/ranlib /home/sebasgm/new_slam_karto/vslam_source/sba/lib/libgtest.a

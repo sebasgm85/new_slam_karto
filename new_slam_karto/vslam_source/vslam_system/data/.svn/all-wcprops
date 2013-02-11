@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/33734/stacks/vslam/trunk/vslam_system/data
+END
+cam-canon500d-20mm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/data/cam-canon500d-20mm.txt
+END
+cam-ps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/33734/stacks/vslam/trunk/vslam_system/data/cam-ps.txt
+END
+cam-newcollege.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/data/cam-newcollege.txt
+END

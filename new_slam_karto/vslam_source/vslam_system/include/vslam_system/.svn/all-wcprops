@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/include/vslam_system
+END
+vslam_mono.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/include/vslam_system/vslam_mono.h
+END
+place_recognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ros-pkg/!svn/ver/35889/stacks/vslam/trunk/vslam_system/include/vslam_system/place_recognizer.h
+END
+vslam_ptcloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ros-pkg/!svn/ver/35889/stacks/vslam/trunk/vslam_system/include/vslam_system/vslam_ptcloud.h
+END
+vo_ptcloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ros-pkg/!svn/ver/35889/stacks/vslam/trunk/vslam_system/include/vslam_system/vo_ptcloud.h
+END
+any_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/include/vslam_system/any_detector.h
+END
+vslam.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ros-pkg/!svn/ver/36958/stacks/vslam/trunk/vslam_system/include/vslam_system/vslam.h
+END
+vo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ros-pkg/!svn/ver/35889/stacks/vslam/trunk/vslam_system/include/vslam_system/vo.h
+END

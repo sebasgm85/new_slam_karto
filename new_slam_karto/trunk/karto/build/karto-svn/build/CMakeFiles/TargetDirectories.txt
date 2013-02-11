@@ -1,0 +1,2 @@
+/home/sebasgm/new_slam_karto/trunk/karto/build/karto-svn/build/CMakeFiles/OpenKarto.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/karto-svn/build/CMakeFiles/OpenKarto-shared.dir

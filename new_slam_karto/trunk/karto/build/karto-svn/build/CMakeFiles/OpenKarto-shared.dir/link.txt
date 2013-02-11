@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libOpenKarto.so -o libOpenKarto.so CMakeFiles/OpenKarto-shared.dir/Karto.cpp.o CMakeFiles/OpenKarto-shared.dir/Mapper.cpp.o 

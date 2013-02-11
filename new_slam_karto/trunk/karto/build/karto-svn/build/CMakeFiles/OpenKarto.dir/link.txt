@@ -1,0 +1,2 @@
+/usr/bin/ar cr libOpenKarto.a  CMakeFiles/OpenKarto.dir/Karto.cpp.o CMakeFiles/OpenKarto.dir/Mapper.cpp.o
+/usr/bin/ranlib libOpenKarto.a

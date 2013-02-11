@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system
+END
+ptcloud_vslam.launch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ros-pkg/!svn/ver/32705/stacks/vslam/trunk/vslam_system/ptcloud_vslam.launch
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/vslam_system/manifest.xml
+END
+run_stereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/run_stereo.cpp
+END
+simple_vslam.vcg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/simple_vslam.vcg
+END
+rosdoc.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/rosdoc.yaml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/mainpage.dox
+END
+stereo_vslam.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ros-pkg/!svn/ver/32705/stacks/vslam/trunk/vslam_system/stereo_vslam.launch
+END
+live_demo.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/32705/stacks/vslam/trunk/vslam_system/live_demo.launch
+END
+wg_vslam.vcg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/wg_vslam.vcg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/CMakeLists.txt
+END
+test_bag.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/32705/stacks/vslam/trunk/vslam_system/test_bag.launch
+END
+vo_node.launch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/32705/stacks/vslam/trunk/vslam_system/vo_node.launch
+END

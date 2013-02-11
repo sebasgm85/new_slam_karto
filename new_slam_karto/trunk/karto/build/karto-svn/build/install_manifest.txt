@@ -1,0 +1,9 @@
+/home/sebasgm/new_slam_karto/trunk/karto/karto/source/OpenKarto/Karto.cpp
+/home/sebasgm/new_slam_karto/trunk/karto/karto/source/OpenKarto/Mapper.cpp
+/home/sebasgm/new_slam_karto/trunk/karto/karto/lib/libOpenKarto.a
+/home/sebasgm/new_slam_karto/trunk/karto/karto/lib/libOpenKarto.so
+/home/sebasgm/new_slam_karto/trunk/karto/karto/include/karto/Karto.h
+/home/sebasgm/new_slam_karto/trunk/karto/karto/include/karto/Macros.h
+/home/sebasgm/new_slam_karto/trunk/karto/karto/include/karto/Mapper.h
+/home/sebasgm/new_slam_karto/trunk/karto/karto/include/karto/Math.h
+/home/sebasgm/new_slam_karto/trunk/karto/karto/include/karto/Types.h

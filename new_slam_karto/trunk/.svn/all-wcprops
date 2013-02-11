@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ros-pkg/!svn/ver/39463/stacks/slam_karto/trunk
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/39463/stacks/slam_karto/trunk/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/Makefile
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ros-pkg/!svn/ver/38095/stacks/slam_karto/trunk/stack.xml
+END

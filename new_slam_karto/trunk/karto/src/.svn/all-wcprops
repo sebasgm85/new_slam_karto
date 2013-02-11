@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ros-pkg/!svn/ver/36074/stacks/slam_karto/trunk/karto/src
+END
+slam_karto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/36074/stacks/slam_karto/trunk/karto/src/slam_karto.cpp
+END
+spa_solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/35803/stacks/slam_karto/trunk/karto/src/spa_solver.cpp
+END
+spa_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/35803/stacks/slam_karto/trunk/karto/src/spa_solver.h
+END

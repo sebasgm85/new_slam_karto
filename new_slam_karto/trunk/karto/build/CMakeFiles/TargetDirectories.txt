@@ -1,0 +1,16 @@
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/bin/slam_karto.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/clean-test-results.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/rosbuild_precompile.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/rospack_genmsg.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/rospack_gensrv.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/test.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/test-future.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/test-results.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/test-results-run.dir
+/home/sebasgm/new_slam_karto/trunk/karto/build/CMakeFiles/tests.dir

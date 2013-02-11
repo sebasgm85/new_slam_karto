@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/39463/stacks/slam_karto/trunk/karto_scan_matcher/src
+END
+python_exports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ros-pkg/!svn/ver/38094/stacks/slam_karto/trunk/karto_scan_matcher/src/python_exports.cpp
+END
+test_scan_matcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ros-pkg/!svn/ver/32859/stacks/slam_karto/trunk/karto_scan_matcher/src/test_scan_matcher.cpp
+END
+karto_scan_matcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ros-pkg/!svn/ver/39463/stacks/slam_karto/trunk/karto_scan_matcher/src/karto_scan_matcher.cpp
+END

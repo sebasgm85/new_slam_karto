@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/36675/stacks/vslam/trunk/sba/include/sba
+END
+spa2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/spa2d.h
+END
+proj.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/proj.h
+END
+sba_file_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/sba_file_io.h
+END
+read_spa.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/read_spa.h
+END
+csparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/36675/stacks/vslam/trunk/sba/include/sba/csparse.h
+END
+visualization.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ros-pkg/!svn/ver/31896/stacks/vslam/trunk/sba/include/sba/visualization.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/node.h
+END
+sba.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/sba.h
+END
+sba_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/include/sba/sba_setup.h
+END

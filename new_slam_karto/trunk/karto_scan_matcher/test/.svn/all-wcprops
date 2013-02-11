@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto_scan_matcher/test
+END
+scan_match_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto_scan_matcher/test/scan_match_test.cpp
+END

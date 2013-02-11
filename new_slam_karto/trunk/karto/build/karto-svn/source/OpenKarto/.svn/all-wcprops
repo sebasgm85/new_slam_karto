@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/karto/!svn/ver/23/trunk/source/OpenKarto
+END
+Math.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/karto/!svn/ver/20/trunk/source/OpenKarto/Math.h
+END
+Karto.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/karto/!svn/ver/23/trunk/source/OpenKarto/Karto.h
+END
+Macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/karto/!svn/ver/20/trunk/source/OpenKarto/Macros.h
+END
+Mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/karto/!svn/ver/20/trunk/source/OpenKarto/Mapper.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/karto/!svn/ver/20/trunk/source/OpenKarto/Types.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ros-pkg/!svn/ver/31561/stacks/vslam/trunk/sba/msg
+END
+Frame.msg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/31130/stacks/vslam/trunk/sba/msg/Frame.msg
+END
+Projection.msg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/31561/stacks/vslam/trunk/sba/msg/Projection.msg
+END
+CameraNode.msg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/31130/stacks/vslam/trunk/sba/msg/CameraNode.msg
+END
+WorldPoint.msg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/31130/stacks/vslam/trunk/sba/msg/WorldPoint.msg
+END

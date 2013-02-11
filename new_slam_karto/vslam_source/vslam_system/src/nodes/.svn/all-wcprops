@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/src/nodes
+END
+mono_vslam_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/src/nodes/mono_vslam_node.cpp
+END
+ptcloud_vslam_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/src/nodes/ptcloud_vslam_node.cpp
+END
+fake_stereo_cam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/src/nodes/fake_stereo_cam.cpp
+END
+stereo_vslam_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/src/nodes/stereo_vslam_node.cpp
+END
+vo_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ros-pkg/!svn/ver/39477/stacks/vslam/trunk/vslam_system/src/nodes/vo_node.cpp
+END

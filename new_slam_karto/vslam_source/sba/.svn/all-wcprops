@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/sba
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/sba/manifest.xml
+END
+point_plane.vcg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/33623/stacks/vslam/trunk/sba/point_plane.vcg
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/31580/stacks/vslam/trunk/sba/mainpage.dox
+END
+rosdoc.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/31752/stacks/vslam/trunk/sba/rosdoc.yaml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/sba/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/sba/Makefile
+END
+makelib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/makelib.sh
+END
+Makefile-lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/33575/stacks/vslam/trunk/sba/Makefile-lib
+END
+library.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/sba/library.txt
+END

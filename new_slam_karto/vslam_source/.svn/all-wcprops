@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ros-pkg/!svn/ver/39478/stacks/vslam/trunk
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ros-pkg/!svn/ver/36753/stacks/vslam/trunk/stack.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ros-pkg/!svn/ver/36661/stacks/vslam/trunk/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/Makefile
+END
+rosdep.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ros-pkg/!svn/ver/36645/stacks/vslam/trunk/rosdep.yaml
+END

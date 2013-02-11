@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ros-pkg/!svn/ver/32827/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/database.h
+END
+tree_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ros-pkg/!svn/ver/32827/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/tree_builder.h
+END
+vocabulary_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ros-pkg/!svn/ver/31866/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/vocabulary_tree.h
+END
+simple_kmeans.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ros-pkg/!svn/ver/32827/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/simple_kmeans.h
+END
+mutable_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ros-pkg/!svn/ver/32827/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/mutable_tree.h
+END
+distance.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/distance.h
+END
+feature_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/feature_allocator.h
+END
+generic_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ros-pkg/!svn/ver/31866/stacks/vslam/trunk/vocabulary_tree/include/vocabulary_tree/generic_tree.h
+END

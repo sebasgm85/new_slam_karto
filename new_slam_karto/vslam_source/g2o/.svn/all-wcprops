@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ros-pkg/!svn/ver/39478/stacks/vslam/trunk/g2o
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ros-pkg/!svn/ver/36985/stacks/vslam/trunk/g2o/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/39478/stacks/vslam/trunk/g2o/manifest.xml
+END

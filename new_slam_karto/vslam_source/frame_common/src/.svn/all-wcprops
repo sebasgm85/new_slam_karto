@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/frame_common/src
+END
+stereolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/31863/stacks/vslam/trunk/frame_common/src/stereolib.c
+END
+test_frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ros-pkg/!svn/ver/31863/stacks/vslam/trunk/frame_common/src/test_frame.cpp
+END
+frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/frame_common/src/frame.cpp
+END
+draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/frame_common/src/draw.cpp
+END
+stereo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ros-pkg/!svn/ver/35891/stacks/vslam/trunk/frame_common/src/stereo.cpp
+END

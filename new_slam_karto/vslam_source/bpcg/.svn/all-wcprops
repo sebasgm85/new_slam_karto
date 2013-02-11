@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/bpcg
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/35898/stacks/vslam/trunk/bpcg/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ros-pkg/!svn/ver/32173/stacks/vslam/trunk/bpcg/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/bpcg/manifest.xml
+END

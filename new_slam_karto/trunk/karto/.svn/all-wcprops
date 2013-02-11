@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ros-pkg/!svn/ver/38094/stacks/slam_karto/trunk/karto
+END
+wiped
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto/wiped
+END
+Makefile.karto
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto/Makefile.karto
+END
+karto_stage.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/karto_stage.launch
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/38094/stacks/slam_karto/trunk/karto/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto/Makefile
+END
+karto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto/karto.patch
+END
+karto_slam.launch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/32963/stacks/slam_karto/trunk/karto/karto_slam.launch
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ros-pkg/!svn/ver/38094/stacks/slam_karto/trunk/karto/manifest.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ros-pkg/!svn/ver/36494/stacks/vslam/trunk/vslam_system/bin
+END
+mono-newcollege.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/bin/mono-newcollege.sh
+END
+ptest-ps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/33741/stacks/vslam/trunk/vslam_system/bin/ptest-ps.sh
+END
+ptest-newcollege.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/36361/stacks/vslam/trunk/vslam_system/bin/ptest-newcollege.sh
+END
+ptest-ps-bag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ros-pkg/!svn/ver/33938/stacks/vslam/trunk/vslam_system/bin/ptest-ps-bag.sh
+END
+ptest-tea.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/bin/ptest-tea.sh
+END
+ptest-office.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ros-pkg/!svn/ver/31865/stacks/vslam/trunk/vslam_system/bin/ptest-office.sh
+END

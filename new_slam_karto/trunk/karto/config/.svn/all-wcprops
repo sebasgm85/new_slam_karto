@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config
+END
+move_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/move_base.xml
+END
+recovery_behaviors.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/recovery_behaviors.yaml
+END
+costmap_common_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/costmap_common_params.yaml
+END
+local_costmap_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/local_costmap_params.yaml
+END
+base_local_planner_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/base_local_planner_params.yaml
+END
+explore_costmap_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/explore_costmap_params.yaml
+END
+global_costmap_params.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ros-pkg/!svn/ver/31623/stacks/slam_karto/trunk/karto/config/global_costmap_params.yaml
+END

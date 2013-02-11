@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/src
+END
+generic_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/31866/stacks/vslam/trunk/vocabulary_tree/src/generic_tree.cpp
+END
+make_tree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/src/make_tree.cpp
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ros-pkg/!svn/ver/32827/stacks/vslam/trunk/vocabulary_tree/src/database.cpp
+END
+make_tree_gaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/src/make_tree_gaussian.cpp
+END
+train_weights.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/vocabulary_tree/src/train_weights.cpp
+END

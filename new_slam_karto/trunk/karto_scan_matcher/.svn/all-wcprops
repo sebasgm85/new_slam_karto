@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ros-pkg/!svn/ver/39463/stacks/slam_karto/trunk/karto_scan_matcher
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/38095/stacks/slam_karto/trunk/karto_scan_matcher/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto_scan_matcher/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ros-pkg/!svn/ver/38095/stacks/slam_karto/trunk/karto_scan_matcher/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ros-pkg/!svn/ver/30922/stacks/slam_karto/trunk/karto_scan_matcher/Makefile
+END

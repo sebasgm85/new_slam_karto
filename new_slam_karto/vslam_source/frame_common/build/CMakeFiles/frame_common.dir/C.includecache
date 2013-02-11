@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/frame_common/stereolib.h
+malloc/malloc.h
+-
+malloc.h
+-
+pstdint.h
+../include/frame_common/pstdint.h
+stdint.h
+-
+math.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/sebasgm/new_slam_karto/vslam_source/frame_common/src/stereolib.c
+frame_common/stereolib.h
+-
+emmintrin.h
+-
+stdio.h
+-
+

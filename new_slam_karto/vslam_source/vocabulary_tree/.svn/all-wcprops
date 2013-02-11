@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/vocabulary_tree
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/vocabulary_tree/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ros-pkg/!svn/ver/31866/stacks/vslam/trunk/vocabulary_tree/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ros-pkg/!svn/ver/39476/stacks/vslam/trunk/vocabulary_tree/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ros-pkg/!svn/ver/31866/stacks/vslam/trunk/vocabulary_tree/Makefile
+END

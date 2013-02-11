@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ros-pkg/!svn/ver/36741/stacks/vslam/trunk/sparselib
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ros-pkg/!svn/ver/34064/stacks/vslam/trunk/sparselib/Makefile
+END
+cg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/sparselib/cg.h
+END
+sparselib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/sparselib/sparselib.patch
+END
+sparselib_1_7.zip.md5sum
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ros-pkg/!svn/ver/30913/stacks/vslam/trunk/sparselib/sparselib_1_7.zip.md5sum
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/36741/stacks/vslam/trunk/sparselib/manifest.xml
+END

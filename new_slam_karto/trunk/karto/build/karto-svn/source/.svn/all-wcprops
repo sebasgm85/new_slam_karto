@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/karto/!svn/ver/23/trunk/source
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/karto/!svn/ver/14/trunk/source/CMakeLists.txt
+END
+Karto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/karto/!svn/ver/13/trunk/source/Karto.cpp
+END
+Mapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/karto/!svn/ver/23/trunk/source/Mapper.cpp
+END

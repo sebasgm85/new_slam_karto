@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/bpcg/src
+END
+test_bpcg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/35832/stacks/vslam/trunk/bpcg/src/test_bpcg.cpp
+END
+bpcg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ros-pkg/!svn/ver/32332/stacks/vslam/trunk/bpcg/src/bpcg.cpp
+END

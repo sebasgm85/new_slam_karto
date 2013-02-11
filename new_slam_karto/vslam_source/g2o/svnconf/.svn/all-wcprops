@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ros-pkg/!svn/ver/36752/stacks/vslam/trunk/g2o/svnconf
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ros-pkg/!svn/ver/36752/stacks/vslam/trunk/g2o/svnconf/config
+END
+servers
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ros-pkg/!svn/ver/36752/stacks/vslam/trunk/g2o/svnconf/servers
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ros-pkg/!svn/ver/36752/stacks/vslam/trunk/g2o/svnconf/README.txt
+END
