@@ -1,0 +1,17 @@
+<launch>
+
+  <arg name="kinect_start" default="false"/>
+  
+  <group if="$(arg kinect_start)">
+    <include file="$(find turtlebot_bringup)/launch/3dsensor.launch">
+      <arg name="rgb_processing" value="false" />
+      <arg name="depth_registration" value="false" />
+      <arg name="depth_processing" value="false" />
+    </include>
+  </group>
+
+  <include file="$(find karto)/launch/_karto.launch"/>
+
+  <include file="$(find karto)/launch/_move_base.launch"/>
+
+</launch>
